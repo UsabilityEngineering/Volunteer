@@ -35,11 +35,6 @@ We’ll go over a few of our questions with more detail that gave us the most in
 5. Are you likely to volunteer with a friend? 
   * We received 100% of ‘Yes’s. Sample size was small, but its pretty evident that people want to volunteer with friends. A co-op/pair volunteering feature would be an idea to think about. 
 
-
-## Conclusions
-
-Discoveries derived from the method(s). For example, explain a requirement (e.g. “Task X needs to be accomplished with fewer steps. . . ”) based on a finding (e.g. “. . . because in our contextual inquiry, we found it was what the users did most often and complained about extraneous work needed to complete it”)
-
 ## Caveats
 
 One of the caveats of using a survey to gather data is that we are not collecting contact information so we can not follow up with respondents. Another caveat is that we have only shared our survey to the class so we are not getting a very diverse crowd because we are not allowed to do human studies due to the Coronavirus pandemic.
