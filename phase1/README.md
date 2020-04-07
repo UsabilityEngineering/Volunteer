@@ -1,4 +1,5 @@
 # Volunteer Team, Phase 1: User Inquiry and Inspection
+Jonathan Cheon, Haley Martin, Albert Swingler
 
 ## Executive Summary
 
