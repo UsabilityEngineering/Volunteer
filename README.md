@@ -1,11 +1,13 @@
-# Project Name
+# Volunteer 
 
 Introduction - a brief summary of the general problem being studied and addressed
 
 ## Team Members
 
-* **Full Name 1** - Summary of contributions
-* **Full Name 2** - Summary of contributions
+* **Albert Swingler** - Summary of contributions
+* **Haley Martin** - Summary of contributions
+* **Jonathan Cheon** - Summary of contributions
+
 
 ## Phase 1: User Inquiry and Inspection
 
