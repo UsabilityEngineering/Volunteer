@@ -62,3 +62,8 @@ Katie has a fairly open schedule for her senior year and does not face time cons
 
 We are distributing a survey built in google forms. Responses automatically get put in a spreadsheet. This can be found at [here](https://forms.gle/FvFKK7UVtfbz9bZR7)
 
+
+## Conclusion
+
+We were able to gather enough information from our classmates to start designing our platform. We have customer personas and a good idea of how uers might use the service. Unfortunatly we were unable to get information from real potential customers but this will do.
+
