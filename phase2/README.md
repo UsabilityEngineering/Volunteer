@@ -20,7 +20,18 @@ After they click next, they will be presented with this screen where users could
 #### Interests
 In this screen, users would be able to share their interests with us. Since there are various types of organizations people could volunteer for, users can share their interests where we could match them with volunteering experiences they would enjoy. We labled some popular volunteering categories for users. 
 ![sixth](../assets/6.png)  
-![seventh](../assets/7.png)  
+
+#### Abilities
+Here we have several skills that our organizations need help with and we ask the user to fill out what they are good at. The options are pretty granular so that applicants can be more precise with their skill level.
+![seventh](../assets/7.png) 
+
+#### Waivers
+In this screen the user is asked to provide consent to be photographed and fill out the release of liability form. We tried to make this as quick and painless as possible but our service and orgnaizations need to have volunteers fill this out before they can help. 
 ![eighth](../assets/8.png)  
+
+#### Welcome!
+After the user has gone through all the above steps they are shown a screen with their name, city, and volunteering intrests selected previously. They are then prompted to begin the matching process to find organizations that can use their skills.
 ![ninth](../assets/9.png)  
+
+On the final screen of the signup process, users are now shown the organizations in need of their help and have the option of clicking on one from a grid to view more information. The grid shows basic information for each organization and several filtering options to help the user find what suits them best. Each tile in the grid has a photo, the job needing to be done, the name of the organization, and a location.
 ![tenth](../assets/10.png)  
