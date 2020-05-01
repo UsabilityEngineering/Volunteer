@@ -33,5 +33,6 @@ In this screen the user is asked to provide consent to be photographed and fill 
 After the user has gone through all the above steps they are shown a screen with their name, city, and volunteering intrests selected previously. They are then prompted to begin the matching process to find organizations that can use their skills.
 ![ninth](../assets/9.png)  
 
+#### Signup complete!
 On the final screen of the signup process, users are now shown the organizations in need of their help and have the option of clicking on one from a grid to view more information. The grid shows basic information for each organization and several filtering options to help the user find what suits them best. Each tile in the grid has a photo, the job needing to be done, the name of the organization, and a location.
 ![tenth](../assets/10.png)  
