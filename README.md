@@ -19,7 +19,7 @@ Introduction - a brief summary of the general problem being studied and addresse
 
 ## Phase 2: Interaction Design
 
-*Coming soon*
+[Full phase 1 report](phase2/)
 
 ## Phase 3: Usability Evaluation
 
