@@ -19,6 +19,9 @@ Introduction - The goal of this site is to connect organizations in need of volu
 
 ## Phase 2: Interaction Design
 
+* Initial prototype of users process signing up and finding oportunities
+* Discriptions of each screen and how they work
+
 [Full phase 2 report](phase2/)
 
 ## Phase 3: Usability Evaluation
