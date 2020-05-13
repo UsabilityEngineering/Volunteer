@@ -4,7 +4,7 @@ Introduction - a brief summary of the general problem being studied and addresse
 
 ## Team Members
 
-* **Albert Swingler** [UX Journal](https://usabilityengineering.github.io/uxportfolio-aswingler1/) - Designed survey to gather what potential users would use the service for, analized the results of the results to help create personas, 
+* **Albert Swingler** [UX Journal](https://usabilityengineering.github.io/uxportfolio-aswingler1/) - Designed and distributed survey to gather what potential users would use the service for, analized the results of the results to help create personas, prototyped the initial design of the site.
 * **Haley Martin** - Made the final prototype.
 * **Jonathan Cheon** - Created personas.
 
