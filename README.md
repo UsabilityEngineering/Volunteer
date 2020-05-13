@@ -1,10 +1,10 @@
 # Volunteer 
 
-Introduction - a brief summary of the general problem being studied and addressed
+Introduction - The goal of this site is to connect organizations in need of volunteers with people who are searching for volunteer oportunities in their community. We reaserched and studied potential users, analized the data, and designed a site to help achieve our mission.
 
 ## Team Members
 
-* **Albert Swingler** [UX Journal](https://usabilityengineering.github.io/uxportfolio-aswingler1/) - Designed and distributed survey to gather what potential users would use the service for, analized the results of the results to help create personas, prototyped the initial design of the site.
+* **Albert Swingler** [UX Journal](https://usabilityengineering.github.io/uxportfolio-aswingler1/) - Designed and distributed survey to gather what potential users would use the service for, analized the results of the results to help create personas, prototyped the initial design of the site, wrote descriptions for prototype site pages.
 * **Haley Martin** - Made the final prototype.
 * **Jonathan Cheon** - Created personas.
 
