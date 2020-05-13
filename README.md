@@ -4,7 +4,7 @@ Introduction - a brief summary of the general problem being studied and addresse
 
 ## Team Members
 
-* **Albert Swingler** - Summary of contributions
+* **Albert Swingler** [UX Journal](https://usabilityengineering.github.io/uxportfolio-aswingler1/) - Designed survey for potential users, 
 * **Haley Martin** - Summary of contributions
 * **Jonathan Cheon** - Summary of contributions
 
