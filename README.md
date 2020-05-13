@@ -23,4 +23,4 @@ Introduction - a brief summary of the general problem being studied and addresse
 
 ## Phase 3: Usability Evaluation
 
-*Coming Soon*
+[Full phase 3 report](phase3/)
