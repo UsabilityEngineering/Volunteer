@@ -5,7 +5,7 @@ Introduction - The goal of this site is to connect organizations in need of volu
 ## Team Members
 
 * **Albert Swingler** [UX Journal](https://usabilityengineering.github.io/uxportfolio-aswingler1/) - Designed and distributed survey to gather what potential users would use the service for, analized the results of the results to help create personas, prototyped the initial design of the site, wrote descriptions for prototype site pages.
-* **Haley Martin** - Made the final prototype.
+* **Haley Martin** [UX Journal](https://usabilityengineering.github.io/uxportfolio-hmartin3/) - Made the final prototype.
 * **Jonathan Cheon** - Created personas.
 
 
