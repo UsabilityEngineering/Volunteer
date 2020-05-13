@@ -5,7 +5,7 @@
 
 Hello and welcome to our user experience evaluation for our project, Resile. We are conducting this study to improve our prototype of our website and would gladly like your response. You will be asked to go through our website to do various tasks while being recorded. Don’t worry, none of your data or recording will be shared to the public. We will keep this record for a short being until our research is over. After each task, we would like your opinion about how you feel, what might you improve, what you did not like, etc. Since this is a prototype, clicking on an area where you might click would autofill with information for you, please disregard the data even if it does not pertain to you. As you partake in this study, we request that you think aloud as you go. This means to say anything that is floating in your mind. Lastly, if at any moment you wish to leave or not partake in our research, feel free to tell us. Any questions before we begin? 
 
-Before - before the person performs the task. 
+Before - before the person performs the task.   
 After - after the person performs the task. 
 
 Task 1: Signup
