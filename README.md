@@ -26,4 +26,7 @@ Introduction - The goal of this site is to connect organizations in need of volu
 
 ## Phase 3: Usability Evaluation
 
+* Our walktrough of the site using a test subject
+* Observing what works and what does not for the prototype
+
 [Full phase 3 report](phase3/)
